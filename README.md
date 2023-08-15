@@ -1,4 +1,4 @@
-# Predicting Final Grades of Portuguese High School Students
+# Grade Predictor:  Analyzing Student Performance 
 
 ## Problem Statement
 This project aims to predict the academic performance of Portuguese high school students using various machine learning algorithms. Given a dataset containing attributes of 396 students, the objective is to develop classification algorithms that identify whether a student performs well in the final grade exam. Different machine learning models will be evaluated on the dataset to determine their effectiveness.
